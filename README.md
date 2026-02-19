@@ -13,7 +13,9 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 - 📖 Cristão, leitor voraz e aspirante a escritor
 - 🎭 Sonho secreto: ser mágico (ilusionista)
 - 🎌 Fã de animes e mangás
-- 🎥 Ex-streamer, futuro criador de comunidade tech?
+- 🎥 Ex-streamer, futuro criador de comunidade tech
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -34,13 +36,34 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edlucaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlucaz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
+
 ## 📫 Como me encontrar
-- LinkedIn: [https://www.linkedin.com/in/edlucazrocha/](https://www.linkedin.com/in/edlucazrocha/)
-- Email:[rocha.edlucaz@gmail.com](mailto:rocha.edlucaz@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/edlucazrocha/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rocha.edlucaz@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</p>
+
+<p align="center">
+  💻 Sempre aberto a colaborações e novos projetos!
+</p>
