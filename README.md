@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EDLUCAZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="DEVlucaz Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2973,20:7155D9,50:BF3475,70:F27329,100:BF3475&height=180&section=header&text=EDLUCAZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="DEVlucaz Header"/>
 
 <div align="center">
 
