@@ -57,6 +57,16 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 
 ---
 
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edlucaz&theme=tokyonight"/>
+</div>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edlucaz&theme=tokyo-night)](https://github.com/edlucaz)
+
 ## 📫 Como me encontrar
 
 <p align="center">
