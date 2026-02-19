@@ -79,7 +79,11 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 </p>
 
 ---
-
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=edlucaz&color=BF3475&style=flat-square)
+  
+</div>
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
