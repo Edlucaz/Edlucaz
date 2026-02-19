@@ -1,7 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EDLUCAZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="DEVlucaz Header"/>
+
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=1000&lines=Biólogo+%7C+Desenvolvedor+%7C+Professor;Python+%7C+Django+%7C+React;Criando+SaaS+e+Soluções+Web;Sempre+aprendendo%2C+sempre+evoluindo!)](https://git.io/typing-svg)
+</div>
+
 # Olá! 👋 Eu sou Lucas Eduardo Rocha
-### Também conhecido como **Edlucaz**... ou seria **DEVlucaz**? 🤔💻
+### Também conhecido como **edlucaz**... ou seria **DEVlucaz**? 🤔💻
 
 ## 🚀 Sobre mim
+
+<img align="right" alt="Coding GIF" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzZXcwM2trdzR3cnp3azU0aXRqazYyYWtnc3g1dnVtaXQ3bHAyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 Biólogo de formação, desenvolvedor por paixão. Atualmente cursando **Bacharelado em TI** e mergulhado no universo de **desenvolvimento de SaaS**.
 
@@ -41,10 +49,9 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://vercel-stats-edlucaz.vercel.app/api?username=edlucaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://vercel-stats-edlucaz.vercel.app/api/top-langs/?username=edlucaz&layout=compact&langs_count=7&theme=synthwave&hide_border=true"/>
+  <img height="180em" src="https://vercel-stats-edlucaz.vercel.app/api?username=edlucaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="edlucaz GitHub Stats"/>
+  <img height="180em" src="https://vercel-stats-edlucaz.vercel.app/api/top-langs/?username=edlucaz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="edlucaz Top Languages"/>
 </div>
-
 
 ---
 
@@ -68,3 +75,5 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 <p align="center">
   💻 Sempre aberto a colaborações e novos projetos!
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="DEVlucaz Footer"/>
