@@ -1,7 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EDLUCAZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="DEVlucaz Header"/>
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=1000&lines=Biólogo+%7C+Desenvolvedor+%7C+Professor;Python+%7C+Django+%7C+React;Criando+SaaS+e+Soluções+Web;Sempre+aprendendo%2C+sempre+evoluindo!)](https://git.io/typing-svg)
+
 </div>
 
 # Olá! 👋 Eu sou Lucas Eduardo Rocha
