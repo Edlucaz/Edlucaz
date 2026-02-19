@@ -42,7 +42,7 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 
 <div align="center">
   <img height="180em" src="https://vercel-stats-edlucaz.vercel.app/api?username=edlucaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://vercel-stats-edlucaz.vercel.app/api/top-langs/?username=edlucaz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://vercel-stats-edlucaz.vercel.app/api/top-langs/?username=edlucaz&layout=compact&langs_count=7&theme=synthwave&hide_border=true"/>
 </div>
 
 
