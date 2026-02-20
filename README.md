@@ -9,18 +9,59 @@
 # Olá! 👋 Eu sou Lucas Eduardo Rocha
 ### Também conhecido como **edlucaz**... ou seria **DEVlucaz**? 🤔💻
 
+---
+
+## 💼 Status Profissional
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/🔍_Open_to_Work-Backend_Developer-success?style=for-the-badge)
+![Freelance](https://img.shields.io/badge/💰_Available_for-Freelance_Projects-blue?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Localização-Araras_SP-red?style=for-the-badge)
+
+</div>
+
+---
+
+## 📍 Atualmente
+
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><b>Trabalhando em:</b></td>
+    <td>Desenvolvimento de SaaS com Python e Django - projetos privados em andamento</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><b>Aprendendo:</b></td>
+    <td>Django REST Framework, PostgreSQL avançado, Docker em produção, Vue.js</td>
+  </tr>
+  <tr>
+    <td>👯</td>
+    <td><b>Disponível para:</b></td>
+    <td>Projetos backend, freelance, colaborações em desenvolvimento web</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><b>Empreendendo:</b></td>
+    <td>Startup de soluções digitais (co-fundador)</td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Sobre mim
 
-<img align="right" alt="Coding GIF" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzZXcwM2trdzR3cnp3azU0aXRqazYyYWtnc3g1dnVtaXQ3bHAyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzZXcwM2trdzR3cnp3azU0aXRqazYyYWtnc3g1dnVtaXQ3bHAyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-Biólogo de formação, desenvolvedor por paixão. Atualmente cursando **Bacharelado em TI** e mergulhado no universo de **desenvolvimento de SaaS**.
+Biólogo de formao, desenvolvedor por paixão. Atualmente cursando **Bacharelado em TI** e mergulhado no universo de **desenvolvimento de SaaS**.
 
 Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evoluiu para curiosidade em **desenvolver jogos**, e hoje abraço diversos projetos — desde **robótica educacional** como professor até criar soluções web.
 
 **Spoiler:** Tenho TDAH, então sim, meus repositórios são bem ecléticos. Mas prometo que cada um tem sua história! 😅
 
 ### ✨ Além do código:
-- 📖 Cristão, leitor voraz e aspirante a escritor
+- 📚 Cristão, leitor voraz e aspirante a escritor
 - 🎭 Sonho secreto: ser mágico (ilusionista)
 - 🎌 Fã de animes e mangás
 - 🎥 Ex-streamer, futuro criador de comunidade tech
@@ -63,9 +104,13 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edlucaz&theme=tokyonight"/>
 </div>
 
+---
+
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edlucaz&theme=tokyo-night)](https://github.com/edlucaz)
+
+---
 
 ## 📫 Como me encontrar
 
@@ -79,13 +124,15 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 </p>
 
 ---
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=edlucaz&color=BF3475&style=flat-square)
   
 </div>
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <i>“Code is like humor. When you have to explain it, it's bad.” — Cory House</i>
 </p>
 
 <p align="center">
