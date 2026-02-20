@@ -2,75 +2,78 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=1000&lines=Biólogo+%7C+Desenvolvedor+%7C+Professor;Python+%7C+Django+%7C+React;Criando+SaaS+e+Soluções+Web;Sempre+aprendendo%2C+sempre+evoluindo!)](https://git.io/typing-svg)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=1000&lines=Biologist+%7C+Developer+%7C+Teacher;Python+%7C+Django+%7C+React;Building+SaaS+and+Web+Solutions;Always+learning%2C+always+evolving!)](https://git.io/typing-svg)
 
 </div>
 
-# Olá! 👋 Eu sou Lucas Eduardo Rocha
-### Também conhecido como **edlucaz**... ou seria **DEVlucaz**? 🤔💻
+# Hello! 👋 I'm Lucas Eduardo Rocha
+### Also known as **edlucaz**... or would it be **DEVlucaz**? 🤔💻
 
 ---
 
-## 💼 Status Profissional
+## 💼 Professional Status
 
 <div align="center">
 
 ![Open to Work](https://img.shields.io/badge/🔍_Open_to_Work-Backend_Developer-success?style=for-the-badge)
 ![Freelance](https://img.shields.io/badge/💰_Available_for-Freelance_Projects-blue?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍_Localização-Araras_SP-red?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Location-Araras_SP_Brazil-red?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📍 Atualmente
+## 📍 Currently
 
 <table>
   <tr>
     <td>🔭</td>
-    <td><b>Trabalhando em:</b></td>
-    <td>Desenvolvimento de SaaS com Python e Django - projetos privados em andamento</td>
+    <td><b>Working on:</b></td>
+    <td>SaaS development with Python and Django - private projects in progress</td>
   </tr>
   <tr>
     <td>🌱</td>
-    <td><b>Aprendendo:</b></td>
-    <td>Django REST Framework, PostgreSQL avançado, Docker em produção, Vue.js</td>
+    <td><b>Learning:</b></td>
+    <td>Django REST Framework, Advanced PostgreSQL, Docker in production, Vue.js</td>
   </tr>
   <tr>
     <td>👯</td>
-    <td><b>Disponível para:</b></td>
-    <td>Projetos backend, freelance, colaborações em desenvolvimento web</td>
+    <td><b>Available for:</b></td>
+    <td>Backend projects, freelance, web development collaborations</td>
   </tr>
   <tr>
     <td>💼</td>
-    <td><b>Empreendendo:</b></td>
-    <td>Startup de soluções digitais (co-fundador)</td>
+    <td><b>Entrepreneuring:</b></td>
+    <td>Digital solutions startup (co-founder)</td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
 <img align="right" alt="Coding GIF" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzZXcwM2trdzR3cnp3azU0aXRqazYyYWtnc3g1dnVtaXQ3bHAyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-Biólogo de formao, desenvolvedor por paixão. Atualmente cursando **Bacharelado em TI** e mergulhado no universo de **desenvolvimento de SaaS**.
+Biologist by training, developer by passion. Currently pursuing a **Bachelor's in IT** and immersed in the world of **SaaS development**.
 
-Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evoluiu para curiosidade em **desenvolver jogos**, e hoje abraço diversos projetos — desde **robótica educacional** como professor até criar soluções web.
+My journey started with games (from Super Nintendo to PC Master Race 🎮), evolved into curiosity about **game development**, and today I embrace various projects — from **educational robotics** as a teacher to creating web solutions.
 
-**Spoiler:** Tenho TDAH, então sim, meus repositórios são bem ecléticos. Mas prometo que cada um tem sua história! 😅
+**Spoiler:** I have ADHD, so yes, my repositories are quite eclectic. But I promise each one has its story! 😅
 
-### ✨ Além do código:
-- 📚 Cristão, leitor voraz e aspirante a escritor
-- 🎭 Sonho secreto: ser mágico (ilusionista)
-- 🎌 Fã de animes e mangás
-- 🎥 Ex-streamer, futuro criador de comunidade tech
+### ✨ Beyond code:
+- 📚 Christian, avid reader, and aspiring writer
+- 🎭 Secret dream: to be a magician (illusionist)
+- 🎌 Anime and manga fan
+- 🎥 Ex-streamer, future tech community creator
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Linguagens:**  
+**Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -81,7 +84,7 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Ferramentas & Infra:**  
+**Tools & Infrastructure:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
@@ -112,7 +115,7 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Get in Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edlucazrocha/">
@@ -136,7 +139,7 @@ Minha jornada começou com jogos (do Super Nintendo ao PC Master Race 🎮), evo
 </p>
 
 <p align="center">
-  💻 Sempre aberto a colaborações e novos projetos!
+  💻 Always open to collaborations and new projects!
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="DEVlucaz Footer"/>
